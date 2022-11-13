@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\PC\\Desktop\\CCNB\\2eme\\PROG1284\\Projet_Examain_Final_JSerial\\jSerialComm-2.9.2.jar"
+    ]
+}
